@@ -559,6 +559,3 @@ For real-world claims, the relevant primary or official sources remain the appro
 ---
  
 **Prepared from anonymized analytical material — September 2026.**
- 
-
-Notifications are turned off for Claude. Enable them in System Settings to get alerts when Claude 
