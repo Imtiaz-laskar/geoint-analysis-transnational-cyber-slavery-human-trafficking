@@ -198,6 +198,8 @@ MOEI RIVER / BORDER ROUTES
 MYAWADDY AREA
 ```
 
+![Reported Thailand–Myanmar route corridor](Routes.png)
+
 *Figure 1 — Supplied route visualization. Illustrative only; not verified flight-tracking or operational route evidence.*
 
 The reviewed material reports this as **a** recurring corridor, not the only route, and not the route every victim took.
@@ -234,6 +236,8 @@ The source material reports preliminary training in Dubai in some cases. What it
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
+![Illustrative visualization of KK Park compound environment](KK_Park.png)
+
 *Figure 2 — Supplied visualization of a fortified scam-compound environment. Not independently authenticated aerial imagery.*
 
 ```
@@ -262,6 +266,8 @@ The source material reports preliminary training in Dubai in some cases. What it
 ```
 
 **Cambodia:** reported activity concentrates around Sihanoukville, Bavet, Pursat Province, and Krong Poi Pet.
+
+![Illustrative hotspot map of locations discussed in the analysis](Hotspot.png)
 
 *Figure 3 — Supplied hotspot visualization showing locations discussed in the analysis. Illustrative only.*
 
